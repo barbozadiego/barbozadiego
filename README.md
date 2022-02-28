@@ -1,5 +1,6 @@
-### Hi there 👋
+### Hi! 👋 my name is Diego Barboza, i'm a Dev Frontend and Graphic Designer. 💻 
 
+<!-- ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png) -->
 
 ## Skills:
 
@@ -10,8 +11,13 @@
 
 ## Find me at:
 
-[![Instagram](https://img.shields.io/badge/Instagram-@barbozadiego_dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/barbozadiego_dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Barboza_Diego-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/barbozadiego)
+[![Instagram](https://img.shields.io/badge/Instagram-@barbozadiego_dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/barbozadiego_dev)
+[![Twitter](https://img.shields.io/badge/Twitter-@barbozadiego-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/barbozadiego)
+
+## Contact me
+
+[![Email](https://img.shields.io/badge/diegojose1994@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:diegojose1994@gmail.com)
 
 <!--
 **barbozadiego/barbozadiego** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
