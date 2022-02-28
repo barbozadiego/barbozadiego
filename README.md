@@ -8,12 +8,14 @@
 [![CSS](https://img.shields.io/badge/CSS-26ade4?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
 [![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
+[![Git](https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
 
 ## Find me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Barboza_Diego-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/barbozadiego)
-[![Instagram](https://img.shields.io/badge/Instagram-@barbozadiego_dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/barbozadiego_dev)
-[![Twitter](https://img.shields.io/badge/Twitter-@barbozadiego-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/barbozadiego)
+[![Link](https://img.shields.io/badge/Link_Site-barbozadiego-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://barbozadiego.com)</br>
+[![Instagram](https://img.shields.io/badge/Instagram-@barbozadiego__dev-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/barbozadiego_dev)
+[![Twitter](https://img.shields.io/badge/Twitter-@barbozadiego__-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/barbozadiego_)
 
 ## Contact me
 
