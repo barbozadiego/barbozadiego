@@ -25,6 +25,6 @@ I consider myself a creative and proactive person, who thinks outside the box, p
 
 ## Contact me
 
-[![Email](https://img.shields.io/badge/diegojose1994@gmail.com-my_personal_email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:diegojose1994@gmail.com)
+[![Email](https://img.shields.io/badge/diegojose1994@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:diegojose1994@gmail.com)
 
 
