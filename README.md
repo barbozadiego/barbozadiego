@@ -1,4 +1,4 @@
-## Hi, I'm Diego Barboza 👋💻 
+## Hi, I'm Diego Barboza👋🏻💻 
 
 ![Github](https://user-images.githubusercontent.com/73412079/157743343-5b0ec245-f639-4403-89ea-912542bbe92b.jpg)
 
