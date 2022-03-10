@@ -1,6 +1,7 @@
 ### Hi! 👋 my name is Diego Barboza, i'm a Dev Frontend and Graphic Designer. 💻 
 
 <!-- ![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png) -->
+![Linkedin](https://user-images.githubusercontent.com/73412079/157738820-60777af6-ece8-4072-9a1e-159f3b7e36b3.jpg)
 
 ## Skills:
 
