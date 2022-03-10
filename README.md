@@ -10,11 +10,11 @@ I consider myself a creative and proactive person, who thinks outside the box, p
 
 ## Skills:
 
-[![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/CSS-26ade4?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-[![Git](https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+[![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=e34c26)]()
+[![CSS](https://img.shields.io/badge/CSS-26ade4?style=for-the-badge&logo=css3&logoColor=white&labelColor=26ade4)]()
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=f7df1e)]()
+[![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=61dafb)]()
+[![Git](https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git&logoColor=white&labelColor=f1502f)]()
 
 ## Find me at:
 
