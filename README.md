@@ -18,10 +18,10 @@ I consider myself a creative and proactive person, who thinks outside the box, p
 
 ## Find me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/barbozadiego)
-[![Link](https://img.shields.io/badge/Link_Site-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://barbozadiego.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/barbozadiego_dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/barbozadiego_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=0077b5&labelColor=101010)](https://www.linkedin.com/in/barbozadiego)
+[![Link](https://img.shields.io/badge/Link_Site-39E09B?style=for-the-badge&logo=Linktree&logoColor&labelColor=101010)](https://barbozadiego.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor&labelColor=101010)](https://instagram.com/barbozadiego_dev)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor&labelColor=101010)](https://twitter.com/barbozadiego_)
 
 
 
