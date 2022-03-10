@@ -1,7 +1,6 @@
 ## Hi, I'm Diego Barboza 👋💻 
 
-
-![Twitter](https://user-images.githubusercontent.com/73412079/157739523-a485cafb-fdf9-4440-b867-5ef6703cb353.jpg)
+![Github](https://user-images.githubusercontent.com/73412079/157742068-8c74eb1b-c20a-48b8-bfce-2cdfcafd7d38.jpg)
 
 ## Skills:
 
