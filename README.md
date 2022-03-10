@@ -4,6 +4,10 @@
 
 ## Hi, I'm Diego Barboza👋🏻👨‍💻
 
+I am a Graphic Designer by profession and a self-taught Frontend Developer with 2 years of experience. I love web development, I enjoy abstracting and solving problems through programming logic, using clean, functional code and applying good practices.
+
+I consider myself a creative and proactive person, who thinks outside the box, passionate about technology who is constantly learning to be at the forefront, since nowadays it advances by leaps and bounds every day.
+
 ## Skills:
 
 [![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
