@@ -4,13 +4,13 @@
 
 I am a Graphic Designer by profession and a self-taught Frontend Developer with 2 years of experience. I love web development, I enjoy abstracting and solving problems through programming logic, using clean, functional code and applying good practices.
 
-I consider myself a creative and proactive person, who thinks outside the box, passionate about technology who is constantly learning to be at the forefront, since nowadays it advances by leaps and bounds every day.
+I consider myself a creative and proactive person, who thinks outside the box, passionate about technology who is constantly learning to be at the forefront, since nowadays it advances by leaps and bounds every day. <br><br>
 
 <div align="center">
   <a href="https://github.com/barbozadiego">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=barbozadiego&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbozadiego&layout=compact&langs_count=7&theme=blue-green"/>
-</div><br><br><br>
+</div>
 
 ## Skills:
 
