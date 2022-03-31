@@ -6,24 +6,50 @@ I am a Graphic Designer by profession and a self-taught Frontend Developer with 
 
 I consider myself a creative and proactive person, who thinks outside the box, passionate about technology who is constantly learning to be at the forefront, since nowadays it advances by leaps and bounds every day.
 
+<div align="center">
+  <a href="https://github.com/barbozadiego">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=barbozadiego&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbozadiego&layout=compact&langs_count=7&theme=blue-green"/>
+</div>
+
 ## Skills:
 
-[![HTML](https://img.shields.io/badge/HTML-e34c26?style=for-the-badge&logo=html5&logoColor=white&labelColor=101010)]()
-[![CSS](https://img.shields.io/badge/CSS-26ade4?style=for-the-badge&logo=css3&logoColor=white&labelColor=101010)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=101010)]()
-[![React](https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=white&labelColor=101010)]()
-[![Git](https://img.shields.io/badge/Git-f1502f?style=for-the-badge&logo=git&logoColor=white&labelColor=101010)]()
+<div>
+  <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" title="JavaScript" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" title="React" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+</div>
 
+## Tools:
+
+<div>
+  <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
+</div>
+  
 ## Find me at:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/barbozadiego)
-[![Link](https://img.shields.io/badge/Link_Site-39E09B?style=for-the-badge&logo=Linktree&logoColor=white&labelColor=101010)](https://barbozadiego.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://instagram.com/barbozadiego_dev)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/barbozadiego_)
+<div> 
+  <a href="https://www.linkedin.com/in/barbozadiego" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+  <a href="https://barbozadiego.com" target="_blank">
+    <img src="https://img.shields.io/badge/-website-39e09b?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.instagram.com/barbozadiego_dev" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+  <a href="https://twitter.com/barbozadiego_" target="_blank">
+    <img src="https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  </a>
+</div>
 
 
 ## Contact me
 
-[![Email](https://img.shields.io/badge/diegojose1994@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:diegojose1994@gmail.com)
-
-
+<div>
+ <a href = "mailto:diegojose1994@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ ![Snake animation](https://github.com/barbozadiego/barbozadiego/blob/output/github-contribution-grid-snake.svg)
+</div>
