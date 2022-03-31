@@ -51,5 +51,6 @@ I consider myself a creative and proactive person, who thinks outside the box, p
 
 <div>
  <a href = "mailto:diegojose1994@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- ![Snake](https://github.com/barbozadiego/barbozadiego/blob/output/github-contribution-grid-snake.svg)
+ ![snake gif](https://github.com/barbozadiego/barbozadiego/blob/output/github-contribution-grid-snake.gif)
+  <img src="https://github.com/barbozadiego/barbozadiego/blob/output/github-contribution-grid-snake.svg" />
 </div>
