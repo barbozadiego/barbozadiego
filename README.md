@@ -10,7 +10,7 @@ I consider myself a creative and proactive person, who thinks outside the box, p
   <a href="https://github.com/barbozadiego">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=barbozadiego&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbozadiego&layout=compact&langs_count=7&theme=blue-green"/>
-</div>
+</div><br>
 
 ## Skills:
 
@@ -51,5 +51,5 @@ I consider myself a creative and proactive person, who thinks outside the box, p
 
 <div>
  <a href = "mailto:diegojose1994@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- ![Snake animation](https://github.com/barbozadiego/barbozadiego/blob/output/github-contribution-grid-snake.svg)
+ ![Snake](https://github.com/YOUR_USERNAME/barbozadiego/blob/output/github-contribution-grid-snake.svg)
 </div>
