@@ -1,7 +1,7 @@
 ![Github](https://user-images.githubusercontent.com/73412079/157743343-5b0ec245-f639-4403-89ea-912542bbe92b.jpg)
 
 ## Hi, I'm Diego Barboza👋🏻👨‍💻
-<br>
+
 I am a Graphic Designer by profession and a self-taught Frontend Developer with 2 years of experience. I love web development, I enjoy abstracting and solving problems through programming logic, using clean, functional code and applying good practices.
 
 I consider myself a creative and proactive person, who thinks outside the box, passionate about technology who is constantly learning to be at the forefront, since nowadays it advances by leaps and bounds every day. <br><br>
