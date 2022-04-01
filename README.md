@@ -29,7 +29,7 @@ I consider myself a creative and proactive person, who thinks outside the box, p
   <img align="center" alt="Illustrator" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 </div>
   
-## Links:
+## Links & Contact:
 
 <div> 
   <a href="https://barbozadiego.com" target="_blank">
@@ -44,13 +44,10 @@ I consider myself a creative and proactive person, who thinks outside the box, p
   <a href="https://twitter.com/barbozadiego_" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
-</div>
-
-
-## Contact me:
-<div>
- <a href = "mailto:diegojose1994@gmail.com">
+   <a href = "mailto:diegojose1994@gmail.com">
    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
- <img src="https://github.com/barbozadiego/barbozadiego/blob/output/github-contribution-grid-snake.svg" />
 </div>
+
+ <img src="https://github.com/barbozadiego/barbozadiego/blob/output/github-contribution-grid-snake.svg" />
+
