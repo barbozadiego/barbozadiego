@@ -33,7 +33,7 @@ I consider myself a creative and proactive person, who thinks outside the box, p
 <br>
 <div> 
   <a href="https://barbozadiego.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-39e09b?style=for-the-badge&logo=linktree&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-54E346?style=for-the-badge&logo=linktree&logoColor=white" target="_blank">
   </a>
   <a href="https://www.linkedin.com/in/barbozadiego" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
