@@ -32,22 +32,22 @@ I consider myself a creative and proactive person, who thinks outside the box, p
 ## Find me at:
 
 <div> 
-  <a href="https://www.linkedin.com/in/barbozadiego" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
-  </a> 
   <a href="https://barbozadiego.com" target="_blank">
-    <img src="https://img.shields.io/badge/-website-39e09b?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Website-00b4d8?style=for-the-badge&logo=linktree&logoColor=white" target="_blank">
   </a>
+  <a href="https://www.linkedin.com/in/barbozadiego" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
   <a href="https://www.instagram.com/barbozadiego_dev" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
   <a href="https://twitter.com/barbozadiego_" target="_blank">
-    <img src="https://img.shields.io/badge/-twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
   </a>
 </div>
 
 
-## Contact me
+## Contact me:
 
 <div>
  <a href = "mailto:diegojose1994@gmail.com">
