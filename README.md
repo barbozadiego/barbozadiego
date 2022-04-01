@@ -32,20 +32,20 @@ I consider myself a creative and proactive person, who thinks outside the box, p
 ## Links & Contact:
 <br>
 <div> 
-  <a href="https://barbozadiego.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Website-54E346?style=for-the-badge&logo=linktree&logoColor=white" target="_blank">
+  <a href="https://barbozadiego.com">
+    <img src="https://img.shields.io/badge/-Website-54E346?style=for-the-badge&logo=linktree&logoColor=white">
   </a>
-  <a href="https://www.linkedin.com/in/barbozadiego" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  <a href="https://www.linkedin.com/in/barbozadiego">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a> 
-  <a href="https://www.instagram.com/barbozadiego_dev" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  <a href="https://www.instagram.com/barbozadiego_dev">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="https://twitter.com/barbozadiego_" target="_blank">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank">
+  <a href="https://twitter.com/barbozadiego_">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
   </a>
-   <a href = "mailto:diegojose1994@gmail.com">
-   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+   <a href="mailto:diegojose1994@gmail.com">
+   <img src="https://img.shields.io/badge/-Gmail-223333?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
 
