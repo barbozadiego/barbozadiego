@@ -13,7 +13,7 @@ I consider myself a creative and proactive person, who thinks outside the box, p
 </div>
 
 ## Skills:
-
+<br>
 <div>
   <img align="center" title="HTML5" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" title="CSS" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -22,7 +22,7 @@ I consider myself a creative and proactive person, who thinks outside the box, p
 </div>
 
 ## Tools:
-
+<br>
 <div>
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
@@ -30,7 +30,7 @@ I consider myself a creative and proactive person, who thinks outside the box, p
 </div>
   
 ## Links & Contact:
-
+<br>
 <div> 
   <a href="https://barbozadiego.com" target="_blank">
     <img src="https://img.shields.io/badge/-Website-39e09b?style=for-the-badge&logo=linktree&logoColor=white" target="_blank">
@@ -48,6 +48,8 @@ I consider myself a creative and proactive person, who thinks outside the box, p
    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
   </a>
 </div>
+
+## 
 
  <img src="https://github.com/barbozadiego/barbozadiego/blob/output/github-contribution-grid-snake.svg" />
 
